@@ -1,6 +1,6 @@
 # simple-k8s
 
-This is a simple project containing a couple of configuration files to be able to create and run a PoD in Kubernets.
+This is a simple project containing a couple of configuration files to be able to create and run a container in Kubernets.
 
 ## Creating a Pod in Kubernets
 The images used in the configuration files are hosted at Docker Hub and were created previously, so you have to issue
