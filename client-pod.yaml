@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: client
-      image: pachecopaulo/multi-client
+      image: pachecopaulo/multi-server
       ports:
         - containerPort: 3000 
