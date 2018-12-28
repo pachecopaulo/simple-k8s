@@ -9,4 +9,4 @@ spec:
     - name: client
       image: pachecopaulo/multi-server
       ports:
-        - containerPort: 3000 
+        - containerPort: 9999 
