@@ -7,6 +7,6 @@ The images used in the configuration files are hosted at Docker Hub and were cre
 the following commands using the `kubectl` tool in order to create a POD
 
 ```
-kubectl apply -f client-pod.yaml
+kubectl apply -f client-deployment.yaml
 kubectl apply -f client-node-port.yaml
 ```
